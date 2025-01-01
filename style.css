@@ -96,6 +96,7 @@
     margin-bottom: 0.5rem;
     color: var(--clr-dargreyblue);
     font-weight: var(--fw-bold);
+    font-size: 1.3rem;
 }
 .preview-component__description {
     margin-top: 0.875rem;
@@ -116,9 +117,7 @@
     margin-right: 0;
     justify-content: center;
     margin-top: 2rem;
-    margin-bottom: 1.5rem;
-    scroll-padding: 0;
-    scroll-margin: 0;
+    margin-bottom: 2rem;
 }
 .attribution__mini-flex-row {
   margin: 0;
@@ -160,5 +159,5 @@ img {
     background-color: rgba(197, 197, 221, 0.555);
 }
 .social-media__mini-hero {
-  display: none;
+    display: none;
 }
