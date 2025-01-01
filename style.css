@@ -100,7 +100,7 @@
 .preview-component__description {
     margin-top: 0.875rem;
     margin-bottom: 1rem;
-    font-size: 0.875rem;
+    font-size: 0.95rem;
     color: var(--clr-dargreyblue);
     font-weight: var(--fw-light);
 }
@@ -158,4 +158,7 @@ img {
     display: grid;
     place-content: center;
     background-color: rgba(197, 197, 221, 0.555);
+}
+.social-media__mini-hero {
+  display: none;
 }
